@@ -1,0 +1,11 @@
+/* жирный BOLD */
+@font-face {
+  font-family: 'Rb_b';
+  src: url(../fonts/Roboto-Bold.ttf);
+}
+
+/* Обычный REGULAR */
+@font-face {
+  font-family: 'Rb_reg';
+  src: url(../fonts/Roboto-Regular.ttf);
+}
